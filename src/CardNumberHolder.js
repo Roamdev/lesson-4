@@ -1,8 +1,10 @@
-import {Component} from 'react';
+import React, {Component} from 'react';
 
 class CardNumberHolder extends Component {
   render() {
-    return null;
+    return (
+      <div>CardNumberHolder</div>
+    );
   }
 }
 
